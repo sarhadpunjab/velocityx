@@ -9,8 +9,8 @@ export default function HeroSection() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <img 
-          src="https://picsum.photos/seed/gymhero/1920/1080" 
-          alt="Gym interior" 
+          src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=1920&auto=format&fit=crop" 
+          alt="Bodybuilder holding huge dumbbells in a gym" 
           className="object-cover w-full h-full grayscale opacity-50 block" 
         />
         {/* Top gradient to fade into header */}

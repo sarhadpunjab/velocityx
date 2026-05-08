@@ -4,6 +4,7 @@ import AboutSection from "@/components/about";
 import ZonesSection from "@/components/zones";
 import TrainersSection from "@/components/trainers";
 import PricingSection from "@/components/pricing";
+import MapSection from "@/components/map";
 import FooterSection from "@/components/footer";
 
 export default function Home() {
@@ -29,6 +30,7 @@ export default function Home() {
       <ZonesSection />
       <TrainersSection />
       <PricingSection />
+      <MapSection />
       <FooterSection />
     </main>
   );

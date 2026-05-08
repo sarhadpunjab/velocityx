@@ -59,7 +59,6 @@ export default function FooterSection() {
       
       <div className="max-w-7xl mx-auto pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center text-xs font-sans text-white/40 uppercase tracking-widest">
         <span>&copy; {new Date().getFullYear()} VelocityX Gym. All rights reserved.</span>
-        <span className="mt-4 md:mt-0">Design inspired by ReShape.pl</span>
       </div>
     </footer>
   );
